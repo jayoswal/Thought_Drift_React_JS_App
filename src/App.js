@@ -28,7 +28,7 @@ export default function App() {
       <div className="mb-4 text-center heading-container-text">
         <h1>Thought Drift...💭</h1>
         <h3>Clear up your mental fog</h3>
-        <h5>Each thought vanishes after 10 seconds of adding</h5>
+        <h5>Thought vanishes after 10 seconds of adding</h5>
         <EnterThoughts AddThought={AddThought} />
       </div>
 

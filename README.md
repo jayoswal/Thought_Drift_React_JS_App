@@ -1,6 +1,6 @@
 # Thought Drift
 
-Deployed on AWS Cloud - [here](https://www.google.com)
+Deployed on AWS Cloud - [here](http://thought-drift-s3-bucket.s3-website.ap-south-1.amazonaws.com/)
 
 ---
 
@@ -15,7 +15,7 @@ Deployed on AWS Cloud - [here](https://www.google.com)
 - Built using **React** and **JavaScript**
 - Write thoughts, which vanishes after 10 seconds, implemented using **react lifecycle** method for continuous rendering.
 - Add and delete passing thought by **DOM manipulation**.
-- **CI/CD** pipeline and deployed on **AWS Cloud** - CodePipeline, CodeBuild, S3 Bucket. View [here](https://www.google.com)
+- **CI/CD** pipeline and deployed on **AWS Cloud** - CodePipeline, CodeBuild, S3 Bucket. View [here](http://thought-drift-s3-bucket.s3-website.ap-south-1.amazonaws.com/)
 
 ---
 
