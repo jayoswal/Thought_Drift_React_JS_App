@@ -10,7 +10,7 @@ Deployed on AWS Cloud - [here](http://thought-drift-s3-bucket.s3-website.ap-sout
 
 ---
 
-####Technologies:
+#### Technologies:
 
 - Built using **React** and **JavaScript**
 - Write thoughts, which vanishes after 10 seconds, implemented using **react lifecycle** method for continuous rendering.
